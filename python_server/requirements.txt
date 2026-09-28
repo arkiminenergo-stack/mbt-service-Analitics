@@ -1,0 +1,19 @@
+# Document Parser Dependencies
+# Используется для извлечения текста из офисных документов
+
+# Web framework (для возможного REST API в будущем)
+flask==3.0.0
+flask-cors==4.0.0
+
+# Document processing libraries
+pdfplumber==0.10.3        # PDF parsing
+python-docx==1.1.0        # DOCX parsing
+openpyxl==3.1.2           # XLSX parsing
+python-pptx==0.6.23       # PPTX parsing
+pandas==2.1.3             # Data processing
+
+# OCR and image processing (required for scanned PDFs)
+pytesseract==0.3.13       # OCR wrapper for Tesseract
+opencv-python-headless    # Image preprocessing (denoising, binarization)
+Pillow                    # Image handling
+pypdf>=4.0.0              # PDF merging for searchable PDF generation

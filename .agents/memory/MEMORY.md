@@ -1,0 +1,5 @@
+- [MBT Этапы прогресс](mbt-stages.md) — этапы реализации MBT системы, что сделано и что следующее
+- [MBT критические паттерны](mbt-patterns.md) — exceljs writeBuffer, порядок routes, recharts, logActivity fire-and-forget
+- [Mockup Sandbox Routing](mockup-sandbox-routing.md) — middleware path check, window.__MOCKUP_ROUTE__ injection, tool screenshot limitations
+- [Parsing Template Feature](parsing-template-feature.md) — visual span-click parsing mode; activation/deactivation pattern for PDF text layer spans.
+- [GI Acts Module](gi-acts-module.md) — architecture of the hydraulic testing acts module; key patterns and file locations.

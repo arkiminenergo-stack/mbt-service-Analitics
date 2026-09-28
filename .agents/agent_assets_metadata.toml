@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "vL6dFPE8PMhufxH3nnzCm"
+uri = "file://SYSTEM_DESCRIPTION.md"
+type = "text"
+title = "Описание системы автоматизированной проверки документов"
